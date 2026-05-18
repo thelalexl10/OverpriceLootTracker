@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Overprice Loot Tracker Updates - Canal Beta</title>
+    <link>https://github.com/thelalexl10/OverpriceLootTracker</link>
+    <description>Actualizaciones del rastreador.</description>
+    <language>es</language>
+    <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+      <title>Version 9.1.4 (Beta)</title>
+      <pubDate>Mon, 18 May 2026 02:28:50 GMT</pubDate>
+      <enclosure url="https://github.com/thelalexl10/OverpriceLootTracker/releases/download/v9.1.4-beta/Setup_OverpriceLootTracker.exe" version="9.1.4" os="windows" length="265260708" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
