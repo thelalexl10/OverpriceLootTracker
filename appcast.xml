@@ -6,6 +6,11 @@
     <description>Actualizaciones del rastreador.</description>
     <language>es</language>
     <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+      <title>Version 10.0.3 (Estable)</title>
+      <pubDate>Mon, 18 May 2026 05:39:03 GMT</pubDate>
+      <enclosure url="https://github.com/thelalexl10/OverpriceLootTracker/releases/download/v10.0.3/Setup_OverpriceLootTracker.exe" version="10.0.3" os="windows" length="265322154" type="application/octet-stream" />
+    </item>
+    <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
       <title>Version 10.0.2 (Estable)</title>
       <pubDate>Mon, 18 May 2026 04:45:55 GMT</pubDate>
       <enclosure url="https://github.com/thelalexl10/OverpriceLootTracker/releases/download/v10.0.2/Setup_OverpriceLootTracker.exe" version="10.0.2" os="windows" length="265277098" type="application/octet-stream" />
